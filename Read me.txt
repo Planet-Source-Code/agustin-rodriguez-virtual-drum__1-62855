@@ -1,0 +1,3 @@
+Virtual Drum uses a circular interface to make drum patterns.
+Requires Windows XP.  
+Shut Down using the X from the Form2 , NOT VB IDE 
